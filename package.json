@@ -1,6 +1,18 @@
 {
-  "name": "thinkr-js",
-  "version": "0.1.0",
+  "name": "thinkr-hybrid",
+  "version": "1.0.0",
+  "description": "AI-powered Google Cloud certification assistant with hybrid Next.js + Python architecture",
+  "author": "Thinkr Team",
+  "license": "MIT",
+  "keywords": ["google-cloud", "gcp", "certification", "ai-assistant", "nextjs", "fastapi", "langchain"],
+  "homepage": "https://github.com/your-username/thinkr-hybrid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/thinkr-hybrid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/thinkr-hybrid/issues"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
